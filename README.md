@@ -1,4 +1,4 @@
-#Introdução: Fundamentos de HTML
+#Introdução: Fundamentos de HTML <h1>
 
 Nosso objetivo é aprender fundamentos do HTML, uma linguagem de **marcação** essencial para o desenvolvimento de nossos projetos Front-End.
 
